@@ -21,3 +21,4 @@ Currently exploring public tenders in Spain. It's the highest-value public data 
 
 - [**Playbeat**](https://github.com/UNIZAR-30226-2024-03): A music streaming app where I led the backend team (4 persons).
 - [**Deep research tool**](https://github.com/alvdef/obsidian-deep-research): A total life-changer, allows me to learn and explore new topics much faster.
+- [**LuaJIT Lambda Runtime**](https://github.com/alvdef/lambda-luajit-runtime): Custom LuaJIT runtime for AWS Lambda.
