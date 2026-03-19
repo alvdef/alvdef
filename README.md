@@ -2,7 +2,7 @@ Hey there! These are some of my highlighted repositories.
 
 ### AWS Spot Forecaster
 
-I built a complete forecasting framework for EC2 spot instances prices. 
+I built a complete forecasting framework for EC2 spot instances prices. Check my findings [here](https://github.com/alvdef/alvdef/blob/1b81a052ea1e7fbf1cff85476090e5ceec50e4b8/bsc_thesis.pdf).
 
 - [**ETL Pipeline**](https://github.com/alvdef/spot_etl): Data extraction and processing, needed to overcome 90 day history restriction. 
 - [**Prediction models**](https://github.com/alvdef/spot_predictor): Machine Learning pipeline and models. 
