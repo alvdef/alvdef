@@ -13,9 +13,7 @@ I built a complete forecasting framework for EC2 spot instances prices. Check my
 
 Currently exploring public tenders in Spain. It's the highest-value public data I've have ever encountered, trying to exploit it.
 
-- [**ETL Pipeline**](https://github.com/alvdef/spot_predictor): Data ingestion and processing. 
-- [**Infra deployment**](https://github.com/alvdef/spot_predictor): IaC and database schema for the project. 
-
+- [**API + ETL**](https://github.com/licit-es/placsp-browser): Ingests PLACSP ATOM feeds and serves a search API over Spanish public tenders.
 
 ### Other stuff
 
